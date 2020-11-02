@@ -1,4 +1,4 @@
-# <br> for Java
+# MERN Project
 
 ## DESCRIPTION
 
