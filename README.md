@@ -1,4 +1,4 @@
-# MERN Project
+# Coffee
 
 ## DESCRIPTION
 
