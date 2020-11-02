@@ -51,8 +51,6 @@ a simple, modular and accessible component library that gives you all the buildi
 ### Heroku
 Cloud platform that lets companies deploy web applications.
 
-## Contribution
-
 ## Screenshots
 
 Home Page
@@ -66,6 +64,8 @@ Cart
 
 Stripe
 ![image](https://user-images.githubusercontent.com/65319429/97827772-d6d0ba00-1c8a-11eb-9103-192ae9b77ae0.png)
+
+## Contribution
 
  * Create a points/rewards system for users.
  * Include more drink, food options, and combinations for users.
